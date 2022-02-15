@@ -1,0 +1,11 @@
+{
+	"maxplayers" : 100,
+	"name" : "\uD83C\uDF0E \uD83D\uDD11 Freedom Role Play | Beta server [ru][voice][RolePlay]",
+	"gamemode" : "roleplay",
+	"stream-distance" : 500.0,
+	"announce" : true,
+	"csharp" : "disabled",
+	"port": 22005,
+	"language": "ru",
+	"voice-chat": true
+}
